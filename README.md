@@ -9,12 +9,6 @@ I am a **Software Engineering Senior** at **Princess Sumaya University for Techn
 * **Software Engineering:** Software Design & Architecture, Quality Assurance & Testing, and Secure Software Development.
 * **Languages:** Java , Python, C++, SQL, HTML, CSS, JS, TS.
 
-### 📚 Academic Highlights
-I have successfully completed over **100 credit hours** in Software Engineering, including:
-* **Secure Software Development:** Focusing on building resilient and attack-resistant systems.
-* **Database Management Systems:** Advanced design and management.
-* **Operating Systems & Networking:** Deep understanding of system-level operations and data communications.
-
 ### 🚗 Professional Interests
 I am particularly interested in the **Automotive industry**, specifically in how DevOps practices and secure coding can be applied to vehicle software systems (Embedded Systems & IoT).
 
