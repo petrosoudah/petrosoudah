@@ -1,5 +1,3 @@
-# Hi, I'm Petro 👋 | Software Engineer
-
 I am a **Software Engineering Senior** at **Princess Sumaya University for Technology (PSUT)**. My expertise lies at the intersection of robust software construction and modern deployment lifecycles, with a specialized focus on **Automotive Software Engineering**.
 
 ### 🛠 Technical Expertise
