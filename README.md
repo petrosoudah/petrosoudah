@@ -12,7 +12,7 @@ I am a **Software Engineering Senior** at **Princess Sumaya University for Techn
 ### 📚 Academic Highlights
 I have successfully completed over **100 credit hours** in Software Engineering, including:
 * **Secure Software Development:** Focusing on building resilient and attack-resistant systems.
-* **Database Management Systems:** Advanced design and management[cite: 107].
+* **Database Management Systems:** Advanced design and management.
 * **Operating Systems & Networking:** Deep understanding of system-level operations and data communications.
 
 ### 🚗 Professional Interests
@@ -23,7 +23,3 @@ I am particularly interested in the **Automotive industry**, specifically in how
 - [Portfolio/Email](mailto:petro.soudah1710@gmail.com)
 
 ---
-
-### 📊 GitHub Stats
-![Petro's GitHub stats](https://github-readme-stats.vercel.app/api?username=petrosoudah&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=petrosoudah&layout=compact&theme=transparent)
