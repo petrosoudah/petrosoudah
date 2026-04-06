@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 I am a Software Engineer focused on the architecture and security of high performance systems. My expertise lies at the intersection of DevOps, Secure Software Development, and Automotive Programming, where I apply a rigorous understanding of hardware-software integration.<br><br>I have a particular interest in the evolution of automotive technology and the complexities of modern vehicle control systems. By combining a deep knowledge of Operating Systems with hands-on experience in system optimization, I aim to build software that is as reliable as the hardware it controls.
 
 
